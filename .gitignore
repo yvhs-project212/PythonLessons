@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Text editor detritus
+*~
+\#*
+
 # C extensions
 *.so
 
